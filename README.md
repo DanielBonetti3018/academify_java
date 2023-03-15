@@ -1,2 +1,2 @@
-# acedemify_java
+# academify_java
 Academify-backend
